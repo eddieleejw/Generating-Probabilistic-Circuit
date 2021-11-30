@@ -1,2 +1,1 @@
-# Generating-Probabilistic-Circuit
-Repository for probabilistic circuit generating project
+Python script for generating a random probabilstic circuit structure that is smooth and decomposable, then training and evaluating the circuit using PyTorch.
